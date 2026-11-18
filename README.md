@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://akarshdileep.me">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=0B6623&center=true&vCenter=true&multiline=true&width=650&height=90&lines=Hi%2C+I'm+Akarsh+Dileep+%F0%9F%91%8B;Full-Stack+Developer+%26+AI+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=4AF626&center=true&vCenter=true&multiline=true&width=650&height=90&lines=Hi%2C+I'm+Akarsh+Dileep+%F0%9F%91%8B;Full-Stack+Developer+%26+AI+Engineer" alt="Typing SVG" />
 </a>
 
 <p align="center">
