@@ -43,12 +43,12 @@ focus: Full-Stack Development, GenAI/RAG Pipelines, 3D Web Interfaces
 <table>
 <tr>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/AkarshDileep">🚀 AI Resume Parser & Portfolio Generator</a></h4>
+<h4><a href="https://portx,live">🚀 AI Resume Parser & Portfolio Generator</a></h4>
 <p>Cross-platform (Web & Android) app converting PDF/DOCX resumes into live personal sites with 95% extraction accuracy and 50+ customizable layouts.</p>
 <p><code>React</code> <code>React Native</code> <code>Python</code> <code>Flask</code> <code>MongoDB</code> <code>Gemini API</code></p>
 </td>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/AkarshDileep">🎙️ Virtual Interview Pro</a></h4>
+<h4><a href="https://vinterview.akarshdileep.me">🎙️ Virtual Interview Pro</a></h4>
 <p>Autonomous 3D AI interview simulator with procedural lip-sync avatars, full-duplex voice interaction, and multi-LLM resume-based technical evaluation.</p>
 <p><code>React</code> <code>Three.js</code> <code>Django</code> <code>OpenRouter</code> <code>WebGL</code> <code>Web Speech API</code></p>
 </td>
