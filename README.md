@@ -109,7 +109,13 @@ focus: Full-Stack Development, GenAI/RAG Pipelines, 3D Web Interfaces
 ### GitHub Metrics & Activity
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/AkarshDileep/AkarshDileep/output/github-metrics.svg" alt="GitHub Metrics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkarshDileep&theme=tokyonight" alt="Profile Summary" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkarshDileep&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkarshDileep&theme=tokyonight" alt="Most Commit Language" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkarshDileep&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkarshDileep&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 </div>
 
 <br>
