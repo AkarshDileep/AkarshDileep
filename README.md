@@ -30,7 +30,7 @@
 ### `whoami`
 
 ```yaml
-location: Chennai, India
+location: Kannur, Kerala, India
 education: B.Tech in Information Technology @ College of Engineering Thalassery (2022–2026)
 experience: Front End Developer Intern @ Imiot Techno Labs (Shipped 15+ React components, -35% bundle size)
 focus: Full-Stack Development, GenAI/RAG Pipelines, 3D Web Interfaces
